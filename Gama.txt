@@ -1,0 +1,17 @@
+B = M/alpha
+
+alpha*Beta = M
+
+alpha*beta² = sigma²
+
+alpha*M²/alpha² = sigma²
+
+alpha = (M/sigma)²
+
+Beta = M/(M/sigma)²
+
+
+
+alpha = (M/sigma)²
+beta = sigma²/M
+ 
